@@ -1,0 +1,13 @@
+#remove data 
+data/
+#remove python cache
+__pycache__/
+#remove IDE data
+.idea/
+
+#remove images
+*.png
+*.jpg
+*.tif
+*.gif
+*.jpeg
